@@ -1,0 +1,16 @@
+{
+  "wifiname": "Nuovo-Gast",
+  "password": "usggast123",
+  "SSID": "wpa3",
+  "DNS_leak": "NO LEAK",
+  "HTTPS_code": {
+    "code": 200,
+    "class": "success"
+  },
+  "speedtest": {
+    "ping": 1,
+    "outcome": "GOOD"
+  },
+  "result": "green",
+  "advice": "Dit wifi-netwerk is veilig!"
+}
