@@ -1,7 +1,7 @@
 {
   "wifiname": "Nuovo-Gast",
   "password": "usggast123",
-  "SSID": "wpa3",
+  "SSID": "mixed",
   "DNS_leak": "NO LEAK",
   "HTTPS_code": {
     "code": 200,
@@ -11,6 +11,6 @@
     "ping": 1,
     "outcome": "GOOD"
   },
-  "result": "green",
-  "advice": "Dit wifi-netwerk is veilig!"
+  "result": "orange",
+  "advice": "Pas op, dit wifi-netwerk \nis niet helemaal veilig! \nOpen geen gevoelige data \nzoals wachtwoorden\n of bankierapps"
 }
